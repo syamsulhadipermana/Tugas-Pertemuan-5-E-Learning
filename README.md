@@ -12,4 +12,4 @@
 
 # Hasil Screenshot
 Berikut hasil screenshotnya:
-![Image](Screenshot (259).png)
+![Image](https://github.com/syamsulhadipermana/Tugas-Pertemuan-5-E-Learning/blob/main/Screenshot%20(259).png)
